@@ -1,7 +1,8 @@
 # SpringBoot博客
-基于 SpringBoot 英文个人博客，轻量级博客
-[详细说明](http://liuyanzhao.com/shop/flame.html) <br/>
-完成时间：2022年初
+基于 SpringBoot 英文个人博客，轻量级博客<br/>
+详细说明：[http://liuyanzhao.com/shop/flame.html](http://liuyanzhao.com/shop/flame.html) <br/>
+预览地址：[http://flame.liuyanzhao.com](http://flame.liuyanzhao.com)<br/>
+完成时间：2022年初<br/>
 
 ## 特色
 - 业务逻辑简单，代码简单，没有多余代码，方便二次开发和加功能
