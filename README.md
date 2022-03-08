@@ -2,7 +2,7 @@
 基于 SpringBoot 英文个人博客，轻量级博客<br/>
 详细说明：[http://liuyanzhao.com/shop/flame.html](http://liuyanzhao.com/shop/flame.html) <br/>
 预览地址：[http://flame.liuyanzhao.com](http://flame.liuyanzhao.com)<br/>
-升级版项目：[https://liuyanzhao.com/shop/recommendedblog.html﻿]https://liuyanzhao.com/shop/recommendedblog.html﻿)<br/>
+升级版项目：[https://liuyanzhao.com/shop/recommendedblog.html](https://liuyanzhao.com/shop/recommendedblog.html)<br/>
 
 完成时间：2022年初<br/>
 
